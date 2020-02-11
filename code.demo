@@ -1,0 +1,6 @@
+program p{
+int function add(int a, int b){
+    return a+b
+}
+println(add( 5, 8))
+}

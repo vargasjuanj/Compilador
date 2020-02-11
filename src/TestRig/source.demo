@@ -1,0 +1,3 @@
+program p{
+println(2+2*4);
+}
